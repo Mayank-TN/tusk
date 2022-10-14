@@ -1,2 +1,3 @@
 Adding file
 Edit file
+Commiting changes
